@@ -1,0 +1,16 @@
+{
+  "name": "node-tradfri-reboot",
+  "version": "1.0.0",
+  "description": "Reboot IKEA Trådfri Gateways using node-tradfri-client",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:felixmueller/node-tradfri-reboot.git"
+  },
+  "dependencies": {
+    "node-tradfri-client": "^3.0.1"
+  },
+  "homepage": "https://github.com/felixmueller/node-tradfri-reboot#readme",
+  "author": "felixmueller"
+}
